@@ -1,0 +1,12 @@
+{
+  "name": "linter",
+  "version": "0.1.0",
+  "author": "Baseline Telematics",
+  "license": "UNLICENSED",
+  "description": "A generic eslint for internal use only",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint-plugin-babel": "^5.0.0"
+  }
+}
